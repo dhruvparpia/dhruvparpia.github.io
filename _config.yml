@@ -53,8 +53,8 @@ markdown: kramdown
 #  style: compressed
 prose:
   rooturl: '_posts'
-  siteurl: 'http://nayantaraparpia.github.io/'
-  relativeLinks: 'http://nayantaraparpia.github.io/links.jsonp'
+  siteurl: 'http://dhruvparpia.github.io/'
+  relativeLinks: 'http://dhruvparpia.github.io/links.jsonp'
   media: 'media'
   ignore:
     - index.md
