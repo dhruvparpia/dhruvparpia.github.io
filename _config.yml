@@ -2,19 +2,25 @@
 #
 
 # Site settings
-title: Nayantara Parpia Kathak Dancer
-description: 
-owner: Nayantara Parpia # or company name
+title: Spectral
+description: |
+  Another fine responsive  
+  site template freebie  
+  crafted by [HTML5 UP](http://html5up.net)
+owner: Your Name # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: nayantara.parpia@gmail.com
+email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://nayantaraparpia.com" # the base hostname & protocol for your site
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 social:
+  twitter: https://twitter.com/<username>
+  github: https://github.com/<username>
   linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/nayantaraparpia
-  email: mailto:nayantara.parpia@gmail.com
+  facebook-official: https://facebook.com/<username>
+  google-plus-square: https://plus.google.com/u/0/+<username>
+  #email: /contact/
   #flickr:
-  instagram: https://www.instagram.com/nayantara_kathak/
+  #instagram:
   #youtube-square:
   #spotify:
   #stack-overflow:
@@ -51,39 +57,3 @@ social:
 markdown: kramdown
 #sass:
 #  style: compressed
-prose:
-  rooturl: '_posts'
-  siteurl: 'http://dhruvparpia.github.io/'
-  relativeLinks: 'http://dhruvparpia.github.io/links.jsonp'
-  media: 'media'
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "blog"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
