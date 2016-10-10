@@ -28,16 +28,16 @@
 
 // Font.
 	$font: (
-		family:				('Open Sans', Helvetica, sans-serif),
+		family:				('PT Sans', Helvetica, sans-serif),
 		family-fixed:		('Courier New', monospace),
 		weight:				400,
-		weight-bold:		600,
+		weight-bold:		700,
 		weight-extrabold:	800
 	);
 
 // Palette.
 	$palette: (
-		bg:					#2e3842,
+		bg:					#12071F,
 		fg:					#fff,
 		fg-bold:			#fff,
 		fg-light:			rgba(255,255,255,0.5),
@@ -102,10 +102,10 @@
 		),
 
 		accent6: (
-			bg:				#ed4933,
+			bg:				#921423,
 			fg-bold:		#ffffff,
-			fg:				mix(#ed4933, #ffffff, 25%),
-			fg-light:		mix(#ed4933, #ffffff, 40%),
+			fg:				mix(#921423, #ffffff, 25%),
+			fg-light:		mix(#921423, #ffffff, 40%),
 			border:			rgba(0,0,0,0.125),
 			border-bg:		rgba(255,255,255,0.075),
 			border2:		rgba(0,0,0,0.25),
@@ -114,12 +114,13 @@
 
 		accent7: (
 			bg:				#ffffff,
-			fg-bold:		#2E3842,
+			fg-bold:		#4E4852,
 			fg:				#4E4852,
 			fg-light:		#8E8892,
 			border:			#dfdfdf,
 			border-bg:		rgba(0,0,0,0.0375),
 			border2:		#bfbfbf,
-			border2-bg:		rgba(0,0,0,0.1)
+			border2-bg:		rgba(0,0,0,0.1),
+			font-family:    'Courier New'
 		)
 	);

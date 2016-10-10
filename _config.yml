@@ -1,54 +1,16 @@
-# Welcome to Jekyll!
-#
-
-# Site settings
 title: Nayantara Parpia
-description: Kathak Dancer and Teacher
 owner: Nayantara Parpia # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: nayantara.parpia@gmail.com
+email: "contact@nayantaraparpia.com"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://nayantaraparpia.com" # the base hostname & protocol for your site
+url: "http://www.nayantaraparpia.com" # the base hostname & protocol for your site
 social:
-  facebook-official: https://facebook.com/nayantaraparpia
-  instagram: https://www.instagram.com/nayantara_kathak/
-  linkedin-square: https://linkedin.com/in/<username>
-  #google-plus-square: https://plus.google.com/u/0/+<username>
-  email: /contact/
-  #flickr:
-  #youtube-square:
-  #spotify:
-  #stack-overflow:
-  #vimeo:
-  #reddit:
-  #stubleupon:
-  #delicious:
-  #pied-piper:
-  #digg:
-  #soundcloud:
-  #deviantart:
-  #angellist:
-  #tumblr-square:
-  #stackexchange:
-  #weibo:
-  #trello:
-  #foursquare:
-  #linux:
-  #bitbucket-square:
-  #vk:
-  #slack:
-  #vine:
-  #weixin:
-  #yelp:
-  #skyatlas:
-  #leanpub:
-  #connectdevelop:
-  #ils:
-  #forumbee:
-  #tripadvisor:
-  #amazon:
-
-# Build settings
+  facebook-official: "https://facebook.com/nayantaraparpia"
+  instagram: "https://www.instagram.com/nayantara_kathak/"
+  linkedin-square: "https://sg.linkedin.com/in/nayantara-kurma-parpia-79197983"
+  email: "mailto:contact@nayantaraparpia.com"
 markdown: kramdown
-#sass:
-#  style: compressed
+collections:
+  photo_gallery:
+
+
