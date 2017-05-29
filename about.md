@@ -28,6 +28,10 @@ Nayantara has trained in the **Lucknow gharana of Kathak** since the age of 7, u
 
 Since 2004, Nayantara has been performing as one of the lead dancers in the Kalanidhi troupe, and has travelled and performed extensively with her Guru at various festivals, concerts, corporate shows and lecture demonstrations across India. She also has many solo Kathak performances to her credit in **India**, **Singapore** and the **UK**. Some of her recent performances include:
 
+* **Aura-Aurangabad Festival** at MAHAGAMI Gurukul, Aurangabad
+* **Vedvyas Sangeet Nrutyotsav**, Rourkela, Orissa
+* **3<sup>rd</sup> Korean-Indian Cultural Festival**, Pune
+* **Nritya Sabha Festival**, Pune
 * **Sandhana Festival** at Sangeet Natak Akademi, New Delhi
 * **Pancha Tatva Festival**, Mumbai
 * **Prayatna Festival**, Pune
@@ -37,9 +41,11 @@ Since 2004, Nayantara has been performing as one of the lead dancers in the Kala
 * **Kathak Mehfil** at Kalaa Utsavam Indian dance and music festival at the Esplanade Theatre, Singapore
 * **Nrityanjali** at the Singapore Indian Fine Arts Society (SIFAS)
 * **Enna Nadakkuthu** TV show on Vasantham channel, Singapore
+* **Sanskar Bharati** at Mrutyunjayeshwar Temple, Pune
 * **Mid Autumn Festival** at Gardens by the Bay, Singapore
 * **Michael Faraday School**, London, UK
 * **Swar Sadhana Samiti**, Mumbai
+
 
 Nayantara has also performed Kathak in renowned Bollywood film director, Sanjay Leela Bhansali’s 2015 blockbuster [**Bajirao Mastani**](https://www.youtube.com/watch?v=XU3eFkY1BTI){:target="_blank"}, under the choreographic direction of her Guruji, Pandit Birju Maharaj. 
 

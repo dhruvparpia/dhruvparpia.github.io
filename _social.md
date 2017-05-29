@@ -9,7 +9,3 @@ title: Social Media
 ## Facebook
 
 <div id="facebook_wall"></div>
-
-
-
-
