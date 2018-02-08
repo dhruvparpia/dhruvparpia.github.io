@@ -1,8 +1,17 @@
 ---
 layout: hadoken
 title: Workshops
+order: 5
 ---
-Nayantara regularly conducts Kathak workshops for absolute beginners as well as Kathak students of all ages and levels – beginner, intermediate and advanced. She has conducted such workshops in Pune, Mumbai, Singapore and London. Through these workshops, Nayantara strives to share with the participants her deep love for the art form and all that she has inherited from her illustrious gurus. 
+Nayantara regularly conducts Kathak workshops for absolute beginners as well as Kathak students of all ages and levels – beginner, intermediate and advanced. Through these workshops, Nayantara strives to share with the participants her deep love for the art form and all that she has inherited from her illustrious gurus. Some of the institutes she has worked with are:
+	
+* **Future School of Performing Arts**, Mumbai
+* **Sumeet Nagdev Dance Arts**, Mumbai
+* **Taraana Academy of Kathak**, Chennai
+* **Tarana Indian Dance School**, Toronto
+* **East West School of Dance**, New York City 
+* **Michael Faraday School**, London
+* **Symbiosis Centre for Media and Communication**, Pune 
 
 #### WORKSHOP MODULES
 Each module is carefully designed according to the level of the participants and the duration of the workshop. Here are some examples of workshop modules regularly organized and conducted by Nayantara (These can be customized and new workshops can be designed for specific requirements):

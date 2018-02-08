@@ -1,5 +1,6 @@
 ---
 layout: hadoken
+order: 2
 images:
   - image_path: /photos/001.jpg
     thumbnail: /photos/thumbnails/001.jpg

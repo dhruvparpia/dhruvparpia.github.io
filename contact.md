@@ -1,6 +1,7 @@
 ---
 layout: hadoken
 title: Contact
+order: 6
 ---
 #### For programme or workshop enquiries
 
